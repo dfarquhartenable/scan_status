@@ -1,0 +1,1 @@
+This is a simple Python script using requests to pull scan status. It's an example of how to make API calls using requests, and a useful proof of concept for showing what a script to report on scan status would look like.
